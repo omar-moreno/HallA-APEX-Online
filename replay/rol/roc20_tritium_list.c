@@ -27,7 +27,7 @@
 /* FADC Defaults/Globals */
 
 /*Used in faSetProcMode() */
-#define FADC_MODE           9  // 9 - Pulse Parameter (ped, sum, time);  10 - Debug Mode (9 + Raw Samples) 
+#define FADC_MODE           9 // 9 - Pulse Parameter (ped, sum, time);  10 - Debug Mode (9 + Raw Samples) 
 
 #define FADC_MODE_SCIFI    9
 #define FADC_LATENCY_SCIFI 50
